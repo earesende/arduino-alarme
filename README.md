@@ -1,7 +1,7 @@
-Arduino Alarme V0.1
+Arduino Alarme
 =========
 
-Simples alarme desenvolvido no Arduino Uno Atmega328.
+Simples alarme com sensor de presença desenvolvido no Arduino Uno Atmega328.
 
 - Arduino Uno - atmega328
 - Pir Hc-sr501
